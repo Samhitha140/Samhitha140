@@ -1,73 +1,115 @@
-# 👋 Hi, I'm Alli Samhitha  
+# 👋 Hi, I'm Alli Samhitha
 
-🎓 **3rd-year B.Tech AIML student | ACE Engineering College**  
-🤖 **AI/ML | NLP | LLMs | Full-Stack AI Projects**  
-🌟 Passionate about building practical AI systems that genuinely help people.
+### 🚀 AI/ML Engineer | NLP • RAG • Federated Learning • LLM Engineering
 
----
-
-## 🚀 About Me  
-I love creating AI applications that solve real problems — from accessibility tools to interactive AI-driven platforms.  
-I enjoy working with **NLP, LLMs, machine learning models, full-stack development** and exploring new technologies.
-
-Currently:  
-- 🔭 Working on **AI reflection systems & LLM workflows** at *DeepThought*  
-- 🤝 Completed **Summer of AI Internship** at *Swecha & Viswam.AI*  
-- 📚 Improving my skills in **Gemini API, prompt engineering, and ML pipelines**
+🎓 4th-year B.Tech AIML student at **ACE Engineering College** (GPA: 8.65/10)  
+🤖 Passionate about building practical AI systems that solve real-world problems  
+🔬 Interested in **NLP, Retrieval-Augmented Generation (RAG), Federated Learning, Quantum ML, and LLM Applications**
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🌐 Portfolio
 
-### **AI / ML**
-- Machine Learning  
-- NLP (Natural Language Processing)  
-- LLMs (Gemini, GPT, etc.)  
-- Prompt Engineering  
-- EDA, Data Preprocessing  
-- Regression & Clustering Models  
+🔗 **Portfolio Website:** https://portfolio-chi-three-24udl0krod.vercel.app/
 
-### **Programming & Tools**
-- Python (Pandas, NumPy, scikit-learn)  
-- Node.js, Express  
-- React, JavaScript  
-- HTML, CSS  
-- Git, GitHub  
+Explore my projects, experience, skills, and achievements in AI/ML.
 
 ---
 
-## 🔥 Featured Projects
+## 💼 Current Focus
 
-### 🍳 **AI Recipe Generator (Gemini Powered)**
-AI that generates recipes based on ingredients, cuisine, complexity, and cooking time in real-time streaming mode.  
-**Tech:** React, Node.js, Gemini API
-
-### 🧏‍♀️ **AI Multi-Mode Accessibility Communication System**
-Enables **blind, deaf, and speech-impaired users** to communicate using voice↔text conversion.  
-**Tech:** Python, NLP, Speech-to-Text / Text-to-Speech
-
-### ✍️ **AI Chronicles – AI-Enhanced Blogging Platform**
-Blogging platform with **AI suggestions, voice navigation, handwriting comments**, and adaptive AI themes.  
-**Tech:** HTML, CSS, JavaScript, Python, Lovable
+- 🚀 AI Engineer Intern at **DeepThought CultureTech Ventures**
+- 🧠 Building LLM-powered applications using **Gemini API**
+- 📚 Exploring **Quantum Machine Learning** and **Federated Learning**
+- ⚡ Developing end-to-end AI systems from research to deployment
 
 ---
 
-## 🎓 Certifications
-- **Python Programming — Infosys Springboard**  
-- **Goldman Sachs Software Engineering Virtual Experience — Forage**
+## 🛠️ Skills & Technologies
+
+### 🤖 Machine Learning & AI
+- Retrieval-Augmented Generation (RAG)
+- Federated Learning
+- Quantum Machine Learning (PennyLane)
+- Model Training & Fine-Tuning
+- Feature Engineering
+- Hyperparameter Tuning
+- Information Retrieval
+- Vector Search & Hybrid Retrieval
+
+### 💬 NLP & LLMs
+- Prompt Engineering (Gemini API)
+- Sentence-BERT
+- TF-IDF
+- Semantic Search
+- Embeddings
+- NLTK
+- LlamaIndex
+
+### 💻 Programming Languages
+- Python
+- Java
+- JavaScript
+- C
+- HTML & CSS
+- SQL
+
+### ⚙️ Frameworks & Libraries
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- FastAPI
+- React
+- Node.js
+- PyMuPDF
+
+### 🔧 Tools
+- Git & GitHub
+- IBM Quantum
+- Google Colab
+- Jupyter Notebook
+- Power BI
 
 ---
 
-## 🤝 Volunteering
-**Orphanage Learning Program**  
-Taught English, communication, and behavioural skills for students from grades 1–10.
+## 🚀 Featured Projects
+
+### 📜 Legal Document Intelligence System
+- Built an end-to-end Legal Document Intelligence System using **RAG, ChromaDB, BM25, and Google Gemini**.
+- Enabled citation-grounded question answering and explainable legal risk analysis.
+
+### ⚛️ Quantum-Enhanced Federated Learning for EEG Classification
+- Designed a privacy-preserving EEG classification system combining **Federated Learning and Quantum ML**.
+- Implemented Parameterized Quantum Circuits using **IBM Quantum**.
+
+### 🔍 ContextRank – Personalized Search Re-Ranking Engine
+- Developed a full-stack ML pipeline using **Sentence-BERT and TF-IDF**.
+- Reduced irrelevant top-10 search results by **35%**.
+
+### 🎓 AI Multi-Mode Learning Platform
+- Built an accessible learning platform with **Speech-to-Text and Text-to-Speech** capabilities.
 
 ---
 
-## 📫 Connect With Me  
-📌 **LinkedIn:** [linkedin.com/in/alli-samhitha](https://www.linkedin.com/in/alli-samhitha)  
-📧 **Email:** *samhitha.alli@gmail.com*  
+## 📜 Certifications
+
+- 🏆 Goldman Sachs – Software Engineering Job Simulation (Forage)
+- 🐍 Infosys Springboard – Python Programming Certification
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repos or reach out for collaboration.*  
+## 📫 Connect With Me
+
+📧 Email: **samhitha.alii@gmail.com**
+
+💼 LinkedIn: **https://linkedin.com/in/alli-samhitha**
+
+🐙 GitHub: **https://github.com/Samhitha140**
+
+🌐 Portfolio: **https://portfolio-chi-three-24udl0krod.vercel.app/**
+
+---
+
+⭐ *"Building intelligent systems that create meaningful impact through AI."*
