@@ -74,24 +74,49 @@ Explore my projects, experience, skills, and achievements in AI/ML.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 📜 Legal Document Intelligence System
-- Built an end-to-end Legal Document Intelligence System using **RAG, ChromaDB, BM25, and Google Gemini**.
-- Enabled citation-grounded question answering and explainable legal risk analysis.
+### ⚖️ Legal Document Intelligence System
+**Architected a production-oriented Legal AI platform capable of analyzing complex contracts using hybrid retrieval and large language models.**
 
-### ⚛️ Quantum-Enhanced Federated Learning for EEG Classification
-- Designed a privacy-preserving EEG classification system combining **Federated Learning and Quantum ML**.
-- Implemented Parameterized Quantum Circuits using **IBM Quantum**.
+- Designed a **RAG-based legal reasoning pipeline** integrating **BM25, ChromaDB, and Google Gemini** for citation-grounded contract analysis.
+- Engineered **hybrid retrieval mechanisms** to improve clause discovery and multi-document comparison across 200+ page legal documents.
+- Developed explainable legal risk assessment workflows through a **FastAPI-powered backend**, enabling accurate question answering and contract intelligence.
 
-### 🔍 ContextRank – Personalized Search Re-Ranking Engine
-- Developed a full-stack ML pipeline using **Sentence-BERT and TF-IDF**.
-- Reduced irrelevant top-10 search results by **35%**.
-
-### 🎓 AI Multi-Mode Learning Platform
-- Built an accessible learning platform with **Speech-to-Text and Text-to-Speech** capabilities.
+**Tech Stack:** `RAG` `Gemini` `ChromaDB` `BM25` `FastAPI` `Vector Search`
 
 ---
+
+### ⚛️ Quantum-Enhanced Federated Learning for EEG Classification
+**Explored the intersection of Quantum Computing and Privacy-Preserving AI to advance decentralized healthcare intelligence.**
+
+- Developed a novel framework combining **Federated Learning** with **Quantum Machine Learning** for EEG signal classification without exposing raw patient data.
+- Implemented **Parameterized Quantum Circuits (PQCs)** using **IBM Quantum** infrastructure for feature extraction and inference.
+- Evaluated quantum-enhanced approaches against classical baselines to investigate their potential in real-world biomedical applications.
+
+**Tech Stack:** `PennyLane` `TensorFlow Federated` `IBM Quantum` `Python`
+
+---
+
+### 🔍 ContextRank — Intelligent Search Re-Ranking Engine
+**Built a context-aware search intelligence system that personalizes information retrieval beyond traditional keyword matching.**
+
+- Engineered a multi-factor ranking architecture combining **semantic similarity**, **persona modeling**, and **traditional IR techniques**.
+- Leveraged **Sentence-BERT embeddings** and behavioral signals to dynamically adapt search results to user intent.
+- Reduced irrelevant top search results by approximately **35%**, significantly improving retrieval quality and user relevance.
+
+**Tech Stack:** `Sentence-BERT` `TF-IDF` `Flask` `NLTK` `Semantic Search`
+
+---
+
+### 🎓 AI-Powered Multi-Modal Learning Platform
+**Designed an inclusive educational ecosystem leveraging AI to enhance accessibility and personalized learning experiences.**
+
+- Developed intelligent learning tools integrating **Speech-to-Text** and **Text-to-Speech** capabilities for diverse learner needs.
+- Built NLP-driven features capable of understanding natural language inputs to generate context-aware educational assistance.
+- Focused on creating technology that bridges accessibility gaps through adaptive AI interactions.
+
+**Tech Stack:** `React` `Node.js` `NLP` `Speech Recognition` `Text-to-Speech`
 
 ## 📜 Certifications
 
