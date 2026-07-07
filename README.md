@@ -10,7 +10,7 @@
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website:** alli-samhitha-portfolio.vercel.app
+🔗 **Portfolio Website:**(https://alli-samhitha-portfolio.vercel.app/)
 
 Explore my projects, experience, skills, and achievements in AI/ML.
 
